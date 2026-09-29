@@ -21,4 +21,30 @@ I'm Mahmoud, a Computer Science & Engineering student specializing in Artificial
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mahmoudmoh-cse&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+# 🚀 Featured Projects:
+
+[![SOBEC_SWIM](https://github-readme-stats.shion.dev/api/pin/?username=Mahmoudmoh-cse&repo=SOBEC_SWIM&theme=github_dark&hide_border=false)](https://github.com/Mahmoudmoh-cse/SOBEC_SWIM)
+[![StrokeIQ](https://github-readme-stats.shion.dev/api/pin/?username=Mahmoudmoh-cse&repo=StrokeIQ&theme=github_dark&hide_border=false)](https://github.com/Mahmoudmoh-cse/StrokeIQ)
+
+[![QueryNest](https://github-readme-stats.shion.dev/api/pin/?username=Mahmoudmoh-cse&repo=Multi-Tenant-Text-to-SQL-and-Document-Chat-Platform&theme=github_dark&hide_border=false)](https://github.com/Mahmoudmoh-cse/Multi-Tenant-Text-to-SQL-and-Document-Chat-Platform)
+[![RASID](https://github-readme-stats.shion.dev/api/pin/?username=Mahmoudmoh-cse&repo=RASID&theme=github_dark&hide_border=false)](https://github.com/Mahmoudmoh-cse/RASID)
+
+# 🌱 What I'm Building Toward:
+- 🤖 Advanced **Applied AI systems** that solve real-world problems
+- 👁️ High-accuracy **Computer Vision** and motion-analysis systems
+- 🧩 **AI Agents & Automation** that can plan, reason, and execute workflows
+- 🌆 **Digital Twins & Smart City** applications
+- 🚀 Stronger **production engineering** from architecture to deployment
+
+# 🤝 Open Source Contributions:
+- 🔭 Contributed to **JuliaAstro / SpectrumBase.jl** — merged pull request
+- 🌌 Submitted and merged an **OpenAstronomy GSoC proposal**
+- 🛠️ Interested in contributing more to AI, scientific computing, and developer tools
+
+# 🧭 Engineering Mindset:
+> I like building complete systems — not just models.  
+> From **idea → architecture → AI → backend → testing → deployment**.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
