@@ -17,7 +17,8 @@ I'm Mahmoud, a Computer Science & Engineering student specializing in Artificial
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mahmoudmoh-cse&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Mahmoudmoh-cse&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mahmoudmoh-cse&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
