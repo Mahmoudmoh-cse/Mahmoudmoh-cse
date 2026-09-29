@@ -25,11 +25,11 @@ I'm Mahmoud, a Computer Science & Engineering student specializing in Artificial
 
 # 🚀 Featured Projects:
 
-[![SOBEC_SWIM](https://github-readme-stats.shion.dev/api/pin/?username=Mahmoudmoh-cse&repo=SOBEC_SWIM&theme=github_dark&hide_border=false)](https://github.com/Mahmoudmoh-cse/SOBEC_SWIM)
 [![StrokeIQ](https://github-readme-stats.shion.dev/api/pin/?username=Mahmoudmoh-cse&repo=StrokeIQ&theme=github_dark&hide_border=false)](https://github.com/Mahmoudmoh-cse/StrokeIQ)
+[![Student Performance Dashboard](https://github-readme-stats.shion.dev/api/pin/?username=Mahmoudmoh-cse&repo=Student_Performance_Dashboard&theme=github_dark&hide_border=false)](https://github.com/Mahmoudmoh-cse/Student_Performance_Dashboard)
 
-[![QueryNest](https://github-readme-stats.shion.dev/api/pin/?username=Mahmoudmoh-cse&repo=Multi-Tenant-Text-to-SQL-and-Document-Chat-Platform&theme=github_dark&hide_border=false)](https://github.com/Mahmoudmoh-cse/Multi-Tenant-Text-to-SQL-and-Document-Chat-Platform)
-[![RASID](https://github-readme-stats.shion.dev/api/pin/?username=Mahmoudmoh-cse&repo=RASID&theme=github_dark&hide_border=false)](https://github.com/Mahmoudmoh-cse/RASID)
+[![Image Enhancement Web App](https://github-readme-stats.shion.dev/api/pin/?username=Mahmoudmoh-cse&repo=Image-Enhancement-Web-App&theme=github_dark&hide_border=false)](https://github.com/Mahmoudmoh-cse/Image-Enhancement-Web-App)
+[![Kidney Disease Prediction](https://github-readme-stats.shion.dev/api/pin/?username=Mahmoudmoh-cse&repo=Kidney-Disease-Prediction-Using-Neural-Networks&theme=github_dark&hide_border=false)](https://github.com/Mahmoudmoh-cse/Kidney-Disease-Prediction-Using-Neural-Networks)
 
 # 🌱 What I'm Building Toward:
 - 🤖 Advanced **Applied AI systems** that solve real-world problems
