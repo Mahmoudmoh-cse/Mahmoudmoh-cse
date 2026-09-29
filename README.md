@@ -20,5 +20,5 @@ I'm Mahmoud, a Computer Science & Engineering student specializing in Artificial
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mahmoudmoh-cse&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-svg.vercel.app/api/profile?username=Mahmoudmoh-cse&mode=glass&theme=dark" alt="GitHub Trophies" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
