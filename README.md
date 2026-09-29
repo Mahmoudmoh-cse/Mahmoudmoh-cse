@@ -23,6 +23,40 @@ I build practical AI systems from idea and architecture to deployment, with a fo
 | [Student Performance Dashboard](https://github.com/Mahmoudmoh-cse/Student_Performance_Dashboard) | Data-driven student performance and ticketing platform with role-based workflows. |
 | [Image Enhancement Web App](https://github.com/Mahmoudmoh-cse/Image-Enhancement-Web-App) | Interactive Streamlit/OpenCV image-processing application. |
 
+## Repository Map
+
+<details>
+<summary><strong>AI & Data Projects</strong></summary>
+
+- [ML Projects](https://github.com/Mahmoudmoh-cse/ML_projects)
+- [Kidney Disease Prediction](https://github.com/Mahmoudmoh-cse/Kidney-Disease-Prediction-Using-Neural-Networks)
+- [Pneumonia Detection Using CNN](https://github.com/Mahmoudmoh-cse/-Pneumonia-Detection-Using-CNN)
+- [Image Enhancement Web App](https://github.com/Mahmoudmoh-cse/Image-Enhancement-Web-App)
+- [Data Mining: PCA & Association Rules](https://github.com/Mahmoudmoh-cse/Data_Mining_PCA-Assosiation_Rule)
+
+</details>
+
+<details>
+<summary><strong>Software & Systems</strong></summary>
+
+- [Cafeteria Management System](https://github.com/Mahmoudmoh-cse/Cafeteria_system_ITI_YellowBeelt)
+- [Hospital Patient Management System](https://github.com/Mahmoudmoh-cse/Hospital_Managment_systems)
+- [Field Training Management System](https://github.com/Mahmoudmoh-cse/Field-Training-Management-System)
+- [Transportation System](https://github.com/Mahmoudmoh-cse/Transportation_System)
+- [Enterprise Network Architecture](https://github.com/Mahmoudmoh-cse/Enterprise-Network-Architecture-with-Centralized-Data-Center)
+
+</details>
+
+<details>
+<summary><strong>Coursework & Study Repositories</strong></summary>
+
+- [CSE233 Operating Systems Assignment](https://github.com/Mahmoudmoh-cse/assigment_2_os)
+- [MAT112 Reduction Formula](https://github.com/Mahmoudmoh-cse/Reduction_Formula_MAT112)
+- [CSE224 GPT-2](https://github.com/Mahmoudmoh-cse/CSE224-GPT2)
+- [GPT-2 Stanford Evaluation](https://github.com/Mahmoudmoh-cse/GPT-2_Stanford_GPT2_Eval)
+
+</details>
+
 ## Open Source
 
 I have contributed to open-source astronomy projects and participated in the OpenAstronomy ecosystem.
